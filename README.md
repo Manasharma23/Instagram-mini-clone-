@@ -33,7 +33,7 @@ The project fulfills all frontend and backend requirements as specified in the a
 
 #### Node.js
 #### npm (Comes With Node.js)
-
+##### Check Installation:
 ```bash
   node -v
   npm -v
@@ -139,5 +139,5 @@ http://localhost:3000/profile/user/<user_id>
 ### 6. Post detail page 
 ### 7. Axios API integration
 ### 8. Responsive UI
-##### Check Installation:
+
 
